@@ -11,4 +11,4 @@ This page describes the main principles that the agency follows when working wit
 - BEM
 - JavaScript
 
-# [LAYOUT LINK](https://www.figma.com/file/7qwsWggv9BAxMi2VPhBuPr/Air-(formerly-Dia))
+# [Layout link](https://www.figma.com/file/7qwsWggv9BAxMi2VPhBuPr/Air-(formerly-Dia))
