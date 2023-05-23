@@ -12,3 +12,10 @@ This page describes the main principles that the agency follows when working wit
 - JavaScript
 
 # [Layout link](https://www.figma.com/file/7qwsWggv9BAxMi2VPhBuPr/Air-(formerly-Dia))
+
+# Project Setup
+- install node 14+
+- git clone https://github.com/Bonum-taurus/bose-landing.git
+- npm install
+- npm start 
+- switch to develop branch
